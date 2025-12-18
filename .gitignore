@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+gowebscraper
+
+# Scraped data
+*_com*/
+*_com_*/
+
